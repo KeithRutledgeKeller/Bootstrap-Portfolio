@@ -52,7 +52,7 @@ body {
   
   /* header */
   
-  #masthead {
+  /* #masthead {
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -61,7 +61,7 @@ body {
     color: #fff;
     background: #fff;
     border-bottom: 2px solid #ccc;
-  }
+  } */
   
   #logo {
     float: left;
